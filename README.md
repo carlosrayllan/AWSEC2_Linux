@@ -10,4 +10,6 @@
 
 # Tela de recursos
 
+![awsec2_linux](https://github.com/carlosrayllan/AWSEC2_Linux/blob/main/awsec2_linux.png)
+
 
